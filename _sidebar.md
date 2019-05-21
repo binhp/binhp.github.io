@@ -1,15 +1,15 @@
-- Personal
-
-  - [Resume](personal/resume.md)
+- [About](about.md)
 
 - Projects
 
   - [Shitty Page](https://binhp.github.io)
 
-- [Mood](personal/mood.md)
-
 - Notes
 
   - [Shitty Note](https://binhp.github.io)
 
-- [Changelog](changelog.md)
+- [Temp](temp/README.md)
+
+- [Starred](https://github.com/binhp?tab=stars)
+
+- [Gist](https://gist.github.com/binhp)

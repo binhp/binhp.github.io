@@ -1,4 +1,7 @@
- .dots {
+.app-name .app-name-link img{
+  width:100px;
+}
+.dots {
   width: 3.5em;
   display: flex;
   flex-flow: row nowrap;
