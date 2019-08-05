@@ -1,8 +1,6 @@
 - [About](about.md)
 
-- Projects
-
-  - [All](https://github.com/binhp)
+- [Projects](https://github.com/binhp)
 
 - [Bookmark](cache/README.md)
 
