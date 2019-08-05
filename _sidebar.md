@@ -2,13 +2,9 @@
 
 - Projects
 
-  - [Shitty Page](https://binhp.github.io)
+  - [All](https://github.com/binhp)
 
-- Notes
-
-  - [Shitty Note](https://binhp.github.io)
-
-- [Temp](temp/README.md)
+- [Bookmark](cache/README.md)
 
 - [Starred](https://github.com/binhp?tab=stars)
 
