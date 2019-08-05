@@ -1,7 +1,2 @@
 
->
-> Sing like no one is listening.
->
-> Dance like nobody’s watching
->
-
+# [Public cache](binhp.github.io)
